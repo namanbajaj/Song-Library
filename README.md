@@ -1,1 +1,1 @@
-Assignment 1 for CS213: Song Library
+Song library written in Java using JavaFX libraries (playback not supported)
